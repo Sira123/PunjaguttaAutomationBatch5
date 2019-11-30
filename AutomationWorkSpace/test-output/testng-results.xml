@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6997" started-at="2019-11-29T11:28:32 IST" finished-at="2019-11-29T11:28:39 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6997" started-at="2019-11-29T11:28:32 IST" finished-at="2019-11-29T11:28:39 IST">
+      <class name="Framework.deleteCustomer">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:Framework.deleteCustomer@43a0cee9]" name="OpenBrowser" is-config="true" duration-ms="3571" started-at="2019-11-29T11:28:32 IST" finished-at="2019-11-29T11:28:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Framework.deleteCustomer@43a0cee9]" name="login" is-config="true" duration-ms="317" started-at="2019-11-29T11:28:36 IST" finished-at="2019-11-29T11:28:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="testdeleteCustomer()[pri:0, instance:Framework.deleteCustomer@43a0cee9]" name="testdeleteCustomer" duration-ms="2582" started-at="2019-11-29T11:28:36 IST" finished-at="2019-11-29T11:28:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdeleteCustomer -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:Framework.deleteCustomer@43a0cee9]" name="logout" is-config="true" duration-ms="219" started-at="2019-11-29T11:28:39 IST" finished-at="2019-11-29T11:28:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Framework.deleteCustomer@43a0cee9]" name="closeBrowser" is-config="true" duration-ms="262" started-at="2019-11-29T11:28:39 IST" finished-at="2019-11-29T11:28:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Framework.deleteCustomer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
