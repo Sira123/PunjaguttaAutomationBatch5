@@ -13,7 +13,7 @@ public class CreateProject  extends BaseClass{
 	ActiveProjectsAndCustomerPage apcp=new ActiveProjectsAndCustomerPage();
 	apcp.clickOnAddNewProjectButton();
 	AddNewProjectPage anpp=new AddNewProjectPage();
-	anpp.selectCustomerFromDropdown("sira");
+	anpp.selectCustomerFromDropdown("sira12345600");
 	anpp.enterProjectName("qspiderandjspiders");
 	anpp.clickOnCreateProjectButton();
 	String s=apcp.retriveSuccessMessage();

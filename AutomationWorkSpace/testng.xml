@@ -3,10 +3,9 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Demo3.CreateCustomer"/>
-      <class name="Demo3.CreateProject"/>
-      <class name="Demo3.CreateTask"/>
       
+      <class name="Framework.CreateCustomer"/>
+      <class name="Framework.CreateProject"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
